@@ -1,0 +1,4 @@
+сент. 23, 2023 5:34:08 PM lessons.lesson_002.Ex005_Logger main
+WARNING: Тестовое логирование 1
+сент. 23, 2023 5:34:08 PM lessons.lesson_002.Ex005_Logger main
+INFO: Тестовое логирование 2
