@@ -42,7 +42,11 @@ public class Cat {
 
     @Override
     public String toString() {
-        return "name: " + name + ", age: " + age + ", poroda: " + poroda + ", owner: " + nameOwner;
+        return
+                "name: " + name +
+                ", age: " + age +
+                ", poroda: " + poroda +
+                ", owner: " + nameOwner;
     }
 
     @Override

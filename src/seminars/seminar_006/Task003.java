@@ -45,7 +45,7 @@ public class Task003 {
         Cat cat3 = new Cat();
         cat3.setName("Машка");
         cat3.setAge(9);
-        cat3.setPoroda("Мейнкун");
+        cat3.setPoroda("Мейнкин");
         cat3.setNameOwner("Павел Петрович");
 
         Cat cat4 = new Cat();
