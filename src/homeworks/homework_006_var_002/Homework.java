@@ -63,10 +63,9 @@ public class Homework {
                     if (minRam < 0) {
                         System.out.println(
                                 "Размер оперативной памяти не может быть отрицательным. " +
-                                "Активируйте приложение заново.");
+                                        "Активируйте приложение заново.");
                         return;
-                    }
-                    else {
+                    } else {
                         criteria.add("ram:" + minRam);
                     }
                     break;
@@ -76,10 +75,9 @@ public class Homework {
                     if (minRom < 0) {
                         System.out.println(
                                 "Объём жёсткого диска не может быть отрицательным. " +
-                                "Активируйте приложение заново.");
+                                        "Активируйте приложение заново.");
                         return;
-                    }
-                    else {
+                    } else {
                         criteria.add("rom:" + minRom);
                     }
                     break;
