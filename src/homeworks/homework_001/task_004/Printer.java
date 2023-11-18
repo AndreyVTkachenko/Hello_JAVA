@@ -1,3 +1,4 @@
+/*
 package homeworks.homework_001.task_004;
 
 import java.io.BufferedReader;
@@ -30,3 +31,4 @@ public class Printer{
         System.out.println(result);
     }
 }
+*/
