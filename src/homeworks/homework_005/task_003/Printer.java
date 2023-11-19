@@ -49,6 +49,8 @@ class HeapSort {
 
     public static void heapSort(int[] sortArray, int sortLength) {
         // Введите свое решение ниже
+        buildTree(sortArray, sortLength);
+
         for (int i = sortLength - 1; i >= 0; i--) {
             swap(sortArray, 0, i);
             heapify(sortArray, i, 0);
